@@ -1,0 +1,119 @@
+118
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\14.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News56.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News57.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News58.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News59.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News60.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News61.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News62.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News63.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News64.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News65.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News66.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News67.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News68.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News69.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News70.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News71.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News72.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News73.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News74.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News75.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News76.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News77.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News78.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News79.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News80.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News81.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News82.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News83.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News84.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News85.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News86.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News87.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News88.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News89.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News90.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News91.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News92.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News93.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News94.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News95.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News96.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News97.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News98.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Group25News99.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Gruop18News51.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Gruop18News52.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Gruop18News53.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Gruop18News54.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Gruop18News55.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Gruop18News56.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Gruop18News57.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Gruop18News58.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Gruop18News59.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Gruop18News60.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Gruop18News61.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Gruop18News62.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Gruop18News63.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Gruop18News64.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Gruop18News65.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Gruop18News66.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Gruop18News67.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Gruop18News68.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Gruop18News69.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Gruop18News70.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Gruop18News71.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Gruop18News72.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Gruop18News73.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Gruop18News74.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Gruop18News75.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Here is the ultimate hot springs road trip in Colorado.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Horse.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\How archaeologists determine the date of ancient sites and artifacts.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\How to stay safe from tornadoes.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\How whales and dolphins may be harmed by new seismic airgun approval.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\jaguar.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Kids suing governments about climate It's a global trend.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\King Cobra.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\koala.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\KOALAS 101.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Komodo Dragon.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\lion.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\owl.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Pangolins.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Photo of the Day.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Photos show Hurricane Michael's historic strength.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Physicists discover croissant-shaped twists of light.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Pictures Capture the Invisible Glow of Flowers.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Plant-eating crocodiles thrived in dinosaur times.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\PLASTIC CUTLERY.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Plastic in the North Atlantic has tripled since the 1960s.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\polar bear.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\praying mantis.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\red fox.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\red panda.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\See the drastic toll climate change is taking on our oceans.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\She designs high-tech responses to human health problems.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\SNOW LEOPARDS.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\test.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\The brief (and bizarre) history of selfies in space.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\The last five years were the hottest ever recorded.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\The Surprising Origins of Hawaii's Feral Chickens.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\These are the most endangered U.S. rivers.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\These monkeys are 3,000 years into their own 'Stone Age'.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\This map shows millions of acres of lost Amazon rainforest.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\This Teenage Girl Made a Plastic Bag From Shrimp.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\This young nuclear engineer has a new plan for clean energy.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Time-lapse shows how 337 dead whales can reshape a landscape.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Vietnam Travel Guide.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Vietnam.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Vintage Images of Yellowstone Show the Park's Wild Beauty.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\We visited the border wall. Here's what it looks like.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\When dragons, unicorns and lions dance.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Who were the Vikings.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Why are we afraid of sharks.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Why California's wildfires are so hard to fight.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\Why storm surges and flooding are the biggest hurricane hazards.txt
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\data\wolf.txt

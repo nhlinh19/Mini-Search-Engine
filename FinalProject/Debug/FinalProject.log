@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\Utility.h(231,26): warning C4244: 'return': conversion from 'const __int64' to 'int', possible loss of data
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\Utility.h(470,33): warning C4244: '=': conversion from 'std::streamoff' to 'size_t', possible loss of data
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\Gui.h(49,28): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\Gui.h(49,34): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\KHTN\CS\CS163\Final project\FinalProject\FinalProject\Base.h(505,20): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
+  FinalProject.vcxproj -> D:\KHTN\CS\CS163\Final project\FinalProject\Debug\FinalProject.exe
